@@ -9,3 +9,5 @@ Those practical labs are concidered the base to studying ML. Each of these parti
 
 ## What Will I learn
 
+## How This Is Proccessed 
+Using Google's Colab notebooks for practice and running then saving to this repo.
